@@ -1,1 +1,1 @@
-# customer-support-gticket
+# customer-support-ticket
